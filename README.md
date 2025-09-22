@@ -23,7 +23,7 @@ deposits, withdrawals, customer transfers, merchant payments, and balance checks
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tamannaoishy/Dmoney-REST-API-Integration-Project-Postman-Automation-Collections
+   git clone https://github.com/tamannaoishy/Dmoney-REST-API-Integration-Project-Postman-Automation-Collections.git
    ```
 2.  **Open with any code editor / Command Shell**
 3.  **Give this following commands**
