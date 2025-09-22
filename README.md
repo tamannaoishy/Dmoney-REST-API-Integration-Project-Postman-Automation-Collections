@@ -23,12 +23,12 @@ deposits, withdrawals, customer transfers, merchant payments, and balance checks
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/dmoney-api-postman-project.git
+   git clone https://github.com/tamannaoishy/Dmoney-REST-API-Integration-Project-Postman-Automation-Collections
    ```
 2.  **Open with any code editor / Command Shell**
-3.  **Give this following command
-   ``` npm i ```
-``` node .\report.js** ```
+3.  **Give this following commands**
+   ``` npm i ``` &
+``` node report.js ```
 
 ---
 ## 🧰 Technologies Used
@@ -39,7 +39,21 @@ deposits, withdrawals, customer transfers, merchant payments, and balance checks
 - **htmlextra Reporter** 
 ---
 
-📑 API Documentation
+📑Postman API Collections
 
-Public API Docs (Postman link):
-https://documenter.getpostman.com/view/46784361/2sB3HtGdAG
+- [📘 View API Documentation](https://documenter.getpostman.com/view/46784361/2sB3HqKKQf)
+
+---
+##  Newman CLI report
+ <img width="694" height="835" alt="image" src="https://github.com/user-attachments/assets/3791645e-6811-4fb2-9f14-500bac36d7e9" />
+ <img width="1037" height="778" alt="image" src="https://github.com/user-attachments/assets/a03ee833-16c7-4cee-b6ef-4d48fb1b4684" />
+ <img width="1036" height="260" alt="image" src="https://github.com/user-attachments/assets/f9370b96-c602-4f06-98ff-842943896298" />
+ <img width="1041" height="256" alt="image" src="https://github.com/user-attachments/assets/b986feb3-cf69-4055-aac1-2ba7f440d447" />
+
+
+
+
+
+ 
+
+
