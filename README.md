@@ -18,7 +18,20 @@ deposits, withdrawals, customer transfers, merchant payments, and balance checks
 
 
 ---
+## 🧪 Scenario Flow
 
+1. **Admin Login**  
+2. **Create**: Agent, 2 Customers, and a Merchant  
+3. **System ➝ Agent Deposit** (10–10,000 TK)  
+4. **Agent ➝ Customer Transfer**  
+5. **Check Agent Balance**  
+6. **Customer ➝ Customer Transfer**  
+7. **Customer ➝ Agent Withdrawal**  
+8. **Check Customer Balance + Transaction by ID**  
+9. **Customer ➝ Merchant Payment** 
+10. **Merchant Balance Check**
+
+---
 ## ▶️ How to Run the Project
 
 1. **Clone the repository**
@@ -45,10 +58,14 @@ deposits, withdrawals, customer transfers, merchant payments, and balance checks
 
 ---
 ##  Newman CLI report
- <img width="694" height="835" alt="image" src="https://github.com/user-attachments/assets/3791645e-6811-4fb2-9f14-500bac36d7e9" />
- <img width="1037" height="778" alt="image" src="https://github.com/user-attachments/assets/a03ee833-16c7-4cee-b6ef-4d48fb1b4684" />
- <img width="1036" height="260" alt="image" src="https://github.com/user-attachments/assets/f9370b96-c602-4f06-98ff-842943896298" />
- <img width="1041" height="256" alt="image" src="https://github.com/user-attachments/assets/b986feb3-cf69-4055-aac1-2ba7f440d447" />
+ <img width="693" height="823" alt="Screenshot 2025-10-31 052450" src="https://github.com/user-attachments/assets/060cf81c-6ed3-4e5a-9870-fd46b85eabb9" />
+
+ <img width="685" height="818" alt="image" src="https://github.com/user-attachments/assets/e9a5c1eb-5425-47d8-9e98-bed4a6bd5946" />
+
+<img width="708" height="400" alt="image" src="https://github.com/user-attachments/assets/7178874b-ab43-44b6-9f01-d746fa54165f" />
+
+<img width="706" height="175" alt="image" src="https://github.com/user-attachments/assets/c49446eb-e3e5-4e21-86cc-75acbd16a870" />
+
 
 
 
